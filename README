@@ -1,0 +1,7 @@
+Fibo-Emirp numbers have the following properties:
+
+    * they are prime numbers
+    * the number's reverse is also prime
+    * the number is not palindrome (*)
+    * the number is a fibonacci number (the fibonacci numbers: 1, 1, 2, 3, 5, 8, 13, 21 ... Basically the i-th fibonacci number is given by the recursive formula f(i) = f(i-1) + f(i-2))
+
